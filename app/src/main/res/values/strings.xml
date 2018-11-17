@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Day1</string>
+
+    <string name="hello_top_fragment">Hello top fragment</string>
+    <string name="hello_bottom_fragment">Hello bottom fragment</string>
+</resources>
